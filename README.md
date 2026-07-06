@@ -122,8 +122,4 @@ This project demonstrates:
 - User Authentication
 - Report Generation
 
-## Author
 
-Khyathi Noothi
-
-Amrita Vishwa Vidyapeetham, Amritapuri Campus
